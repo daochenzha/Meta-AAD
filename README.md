@@ -1,6 +1,7 @@
 # [ICDM 2020] Meta-AAD: Active Anomaly Detection with Deep Reinforcement Learning
 
 This is the implementation of ICDM 2020 paper [Meta-AAD: Active Anomaly Detection with Deep Reinforcement Learning](https://arxiv.org/abs/2009.07415). We propose to learn a meta-policy with deep reinforcement learning to optimize the performance of active anomaly detection. Please refer the paper for more deteails.
+<img width="800" src="./imgs/overview.png" alt="overview" />
 
 ## Cite this Work
 If you find this project helpful, for now, please cite our ArXiv version
