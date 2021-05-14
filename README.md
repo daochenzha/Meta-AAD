@@ -4,14 +4,15 @@ This is the implementation of ICDM 2020 paper [Meta-AAD: Active Anomaly Detectio
 <img width="800" src="./imgs/overview.png" alt="overview" />
 
 ## Cite this Work
-If you find this project helpful, for now, please cite our ArXiv version
+If you find this project helpful, for now, please cite
 
 ```bibtex
-@article{zha2020metaaad,
-    title={Meta-AAD: Active Anomaly Detection with Deep Reinforcement Learning},
-    author={Daochen Zha and Kwei-Herng Lai and Mingyang Wan and Xia Hu},
-    year={2020},
-    journal={arXiv preprint arXiv:2009.07415},
+@article{Zha2020MetaAADAA,
+  title={Meta-AAD: Active Anomaly Detection with Deep Reinforcement Learning},
+  author={D. Zha and Kwei-Herng Lai and Mingyang Wan and X. Hu},
+  journal={2020 IEEE International Conference on Data Mining (ICDM)},
+  year={2020},
+  pages={771-780}
 }
 ```
 
