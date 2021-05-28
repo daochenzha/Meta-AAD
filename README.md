@@ -4,7 +4,7 @@ This is the implementation of ICDM 2020 paper [Meta-AAD: Active Anomaly Detectio
 <img width="800" src="./imgs/overview.png" alt="overview" />
 
 ## Cite this Work
-If you find this project helpful, for now, please cite
+If you find this project helpful, please cite
 
 ```bibtex
 @inproceedings{DBLP:conf/icdm/ZhaLWH20,
