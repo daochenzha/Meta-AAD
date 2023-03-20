@@ -2,7 +2,7 @@
 
 This is the implementation of ICDM 2020 paper [Meta-AAD: Active Anomaly Detection with Deep Reinforcement Learning](https://arxiv.org/abs/2009.07415). We propose to learn a meta-policy with deep reinforcement learning to optimize the performance of active anomaly detection. Please refer the paper for more deteails.
 
-:loudspeaker: Do you want to learn more about data labeling? Please check out our [data-centric AI survey](https://arxiv.org/abs/2212.11854) and [data-centric AI resources](https://github.com/daochenzha/data-centric-AI)!
+:loudspeaker: Do you want to learn more about data labeling? Please check out our [data-centric AI survey](https://arxiv.org/abs/2303.10158) and [data-centric AI resources](https://github.com/daochenzha/data-centric-AI)!
 
 <img width="800" src="./imgs/overview.png" alt="overview" />
 
